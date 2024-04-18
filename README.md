@@ -1,4 +1,4 @@
-# Dane Meister - Web Proxy Server
+Web Proxy Server
 
 This project includes a simple web server and a proxy server implemented in Python using socket programming. The web server is designed to handle one HTTP request at a time, serving files from the server's file system and returning appropriate HTTP responses. The proxy server caches web pages and serves requests either from the cache or by fetching content from the web server, improving performance by reducing the need to fetch the same content multiple times.
 
@@ -57,3 +57,4 @@ The web server and proxy server have been tested and respectively work successfu
 
 Please ensure that the web server is running before attempting to access these pages through the proxy server.
 
+This project is a part of an academic assignment and is used for educational purposes only.
